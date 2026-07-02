@@ -114,10 +114,10 @@ The initial decrease in 2020 reflects the investment period during which organiz
 Engineering_Capacity_Transformation
 │
 ├── README.md
-├── Organization(Sanitized)/
+├── Organization/
 ├── Operating_Model/
 ├── Engineering_Standards/
-├── Roadmaps(Sanitized)/
+├── Roadmaps/
 ├── Metrics/
 └── Assets/
 ```
