@@ -3,7 +3,7 @@
 
 ## Executive Summary
 
-Between 2019 and 2024, I led the transformation of a software engineering organization responsible for delivering enterprise sales capabilities for Cox Communications.
+Between 2019 and 2024, I led the transformation of a software engineering organization responsible for delivering enterprise sales capabilities.
 
 During this period, the organization increased annual delivery capacity from **1,292** accepted story points in 2019 to approximately **6,000** accepted story points in 2024—an increase of approximately **364%**—while growing engineering headcount by approximately **150%**.
 
@@ -114,10 +114,10 @@ The initial decrease in 2020 reflects the investment period during which organiz
 Engineering_Capacity_Transformation
 │
 ├── README.md
-├── Organization/
+├── Organization(Sanitized)/
 ├── Operating_Model/
 ├── Engineering_Standards/
-├── Roadmaps/
+├── Roadmaps(Sanitized)/
 ├── Metrics/
 └── Assets/
 ```
