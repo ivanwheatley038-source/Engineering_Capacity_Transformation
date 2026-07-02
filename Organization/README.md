@@ -2,88 +2,99 @@
 
 ## Objective
 
-Increasing engineering capacity required more than simply adding people.
+Sustained increases in engineering delivery capacity required more than adding headcount—they required intentionally redesigning how engineering teams were organized.
 
-As business demand increased, the organization evolved from a single engineering team into multiple product-focused delivery teams with clearly defined ownership, standardized operating practices, and scalable leadership.
+As business demand increased between 2019 and 2024, the organization evolved from a single delivery team into multiple product-focused teams with clearly defined ownership, standardized operating practices, and scalable leadership.
 
-The objective was to improve delivery throughput while maintaining collaboration, quality, and accountability.
+The objective was to increase delivery throughput while maintaining collaboration, quality, predictability, and accountability.
 
 ---
 
 # Organizational Evolution
 
-## 2019–2020
+## 2019–2020 — Establishing the Baseline
 
-The organization primarily operated as a single engineering delivery team supported by a small domain analysis function.
+The organization initially operated as a centralized engineering team supported by a small domain analysis function.
 
-This structure worked effectively while delivery demand remained relatively stable, but increasing project volume began creating shared ownership, competing priorities, and delivery bottlenecks.
+While effective for a smaller portfolio, increasing business demand began creating competing priorities, shared ownership, and delivery bottlenecks.
 
-Primary Characteristics
+Characteristics
 
-- Centralized ownership
+- Centralized engineering organization
 - Broad team responsibilities
 - Limited specialization
-- Growing delivery constraints
-
-Reference:
-
-- Assets/Organization_2019_2020.png
+- Increasing delivery constraints
 
 ---
 
-## 2021
+## 2021 — Introducing Focused Delivery Teams
 
-The first organizational transformation introduced focused delivery teams.
+The first organizational transformation introduced focused engineering teams organized around ownership rather than individual contributors.
 
-Additional engineering capacity was added while responsibilities were intentionally divided into dedicated domains, enabling greater ownership and improved parallel execution.
+Additional engineering capacity was combined with intentional team design to improve accountability and enable greater parallel delivery.
 
-Primary Improvements
+Improvements
 
 - Product-focused ownership
-- Micro-team structure
+- Micro-team organization
 - Reduced delivery bottlenecks
-- Improved accountability
-- Increased delivery capacity
-
-Reference:
-
-- Assets/Organization_2021.png
+- Increased accountability
+- Improved parallel execution
 
 ---
 
-## 2022
+## 2022 and Beyond — Scaling the Organization
 
-The organization expanded into multiple product-aligned engineering teams supported by dedicated operational functions.
+As engineering demand continued to grow, the organization expanded into multiple specialized teams supported by dedicated operational functions.
 
-Rather than functioning as one large engineering organization, delivery was distributed across specialized teams operating within a common engineering framework.
+Rather than functioning as one large engineering organization, delivery became distributed across multiple teams operating within a common engineering framework and shared engineering standards.
 
-Primary Improvements
+Improvements
 
-- Multiple delivery teams
+- Multiple product-focused delivery teams
 - Dedicated operational support
-- Greater specialization
+- Increased specialization
 - Improved scalability
+- Greater organizational resilience
 - Increased parallel work streams
-- Stronger organizational resilience
 
-Reference:
+---
 
-- Assets/Organization_2022.png
+# Team Evolution
+
+The following visual summarizes the organizational evolution throughout the transformation.
+
+**Reference**
+
+- `Assets/Team Organization, By Year.png`
+
+This visual illustrates how organizational design evolved over multiple years to support increasing business demand while preserving ownership, collaboration, and engineering quality.
 
 ---
 
 # Leadership Principles
 
-Several principles guided the organizational evolution.
+Several principles guided every organizational change throughout the transformation.
 
-- Design teams around ownership rather than technology.
+- Organize teams around ownership rather than technology.
 - Increase parallel delivery while preserving collaboration.
 - Standardize engineering practices across all teams.
 - Create repeatable organizational structures that scale.
-- Balance autonomy with shared governance.
+- Balance team autonomy with shared governance.
+- Build organizations capable of sustained growth rather than short-term capacity gains.
 
 ---
 
-## Outcome
+# Outcome
 
-The organizational changes established the foundation that enabled subsequent improvements in engineering standards, delivery processes, portfolio planning, and ultimately sustained multi-year growth in engineering delivery capacity.
+The organizational transformation established the foundation for every subsequent improvement documented within this repository.
+
+The redesigned team structure enabled:
+
+- Standardized engineering practices
+- Consistent delivery processes
+- Increased portfolio capacity
+- Greater delivery predictability
+- Sustained multi-year growth in engineering throughput
+
+These organizational improvements became the foundation for the operating model, engineering standards, portfolio planning, and measurable delivery results presented throughout this case study.
