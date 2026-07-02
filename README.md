@@ -142,5 +142,13 @@ The artifacts included represent working documents used throughout the transform
 
 ---
 
+# Disclaimer
+
+This repository presents a leadership case study based on my professional experience.
+
+Artifacts have been intentionally generalized and sanitized to remove confidential, proprietary, and customer-specific information. The content is intended to illustrate engineering leadership practices, organizational design, and delivery transformation rather than disclose implementation details of any employer.
+
+---
+
 *"Great engineering organizations are not built by simply adding people. They are built by designing systems that enable people to consistently deliver more value together."*
 
