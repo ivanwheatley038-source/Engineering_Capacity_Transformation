@@ -12,7 +12,7 @@ The objective was to increase delivery throughput while maintaining collaboratio
 
 # Organizational Evolution
 
-## 2019–2020 — Establishing the Baseline
+## 2019 — Establishing the Baseline
 
 The organization initially operated as a centralized engineering team supported by a small domain analysis function.
 
@@ -27,7 +27,7 @@ Characteristics
 
 ---
 
-## 2021 — Introducing Focused Delivery Teams
+## 2020 - 2021 — Introducing Focused Delivery Teams
 
 The first organizational transformation introduced focused engineering teams organized around ownership rather than individual contributors.
 
