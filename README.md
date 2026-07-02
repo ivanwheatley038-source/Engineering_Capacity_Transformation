@@ -5,7 +5,7 @@
 
 Between 2019 and 2024, I led the transformation of a software engineering organization responsible for delivering enterprise sales capabilities.
 
-During this period, the organization increased annual delivery capacity from **1,292** accepted story points in 2019 to approximately **6,000** accepted story points in 2024—an increase of approximately **364%**—while growing engineering headcount by approximately **150%**.
+During this period, the organization increased annual delivery capacity from **1,292** accepted story points in 2019 to approximately **6,000** accepted story points in 2024—an increase of approximately **364%**—while growing engineering headcount by approximately **150%**. During this period, the quantity of committed and delivered projects increased proportionally at same rate.
 
 While the metrics are significant, this repository is intended to document **how** those results were achieved.
 
