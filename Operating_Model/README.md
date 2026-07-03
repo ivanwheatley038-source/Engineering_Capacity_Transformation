@@ -39,11 +39,15 @@ Solution Refinement
 
 ↓
 
-Architecture & Design
+Estimation by Assigned Team
 
 ↓
 
-Team Assignment
+Architecture & Design Review
+
+↓
+
+Team Commitment
 
 ↓
 
